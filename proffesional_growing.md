@@ -14,6 +14,7 @@
 - [x] [HTML Academy : Декоративные эффекты](https://htmlacademy.ru/courses/decoration)
 - [x] [HTML Academy : Основы SVG](https://htmlacademy.ru/courses/svg)
 - [x] [HTML Academy : Знакомство с JavaScript](https://htmlacademy.ru/courses/basic-javascript)
+- [x] [HTML Academy : Программирование на JavaScript](https://htmlacademy.ru/courses/javascript)
 - [x] [HTML Academy : Браузерный JavaScript](https://htmlacademy.ru/courses/javascript-in-browser)
 
 # Certificates
