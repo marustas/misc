@@ -5,5 +5,6 @@
 
 # Courses
 
-- [x] TODO
-- [ ] TODO
+- [ ] Internatonal House FCE English course
+- [ ] Udemy JavaScript course
+
