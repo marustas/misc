@@ -7,4 +7,8 @@
 # Courses
 - [ ] Internatonal House FCE English course
 - [ ] Udemy JavaScript course
-- [x] HTML KEKSBY 
+- [x] [HTML Academy : Великий Кексби](https://htmlacademy.ru/courses/keksby)
+
+# Certificates
+- [ ] FCE certificate
+- [x] OTUS JavaScript certificate
