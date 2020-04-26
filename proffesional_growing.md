@@ -7,4 +7,4 @@
 
 - [ ] Internatonal House FCE English course
 - [ ] Udemy JavaScript course
-
+- [x] HTML KEKSBY 
