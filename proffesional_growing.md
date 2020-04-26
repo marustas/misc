@@ -11,4 +11,5 @@
 
 # Certificates
 - [ ] FCE certificate
-- [x] OTUS JavaScript certificate
+- [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
+
