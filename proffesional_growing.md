@@ -8,6 +8,12 @@
 - [ ] Internatonal House FCE English course
 - [ ] Udemy JavaScript course
 - [x] [HTML Academy : Великий Кексби](https://htmlacademy.ru/courses/keksby)
+- [x] [HTML Academy : Препроцессор Less](https://htmlacademy.ru/courses/less)
+- [x] [HTML Academy : Знакомство с HTML и CSS](https://htmlacademy.ru/courses/basic-html-css)
+- [x] [HTML Academy : Продвинутый HTML и CSS](https://htmlacademy.ru/courses/advanced-html-css)
+- [x] [HTML Academy : Декоративные эффекты](https://htmlacademy.ru/courses/decoration)
+- [x] [HTML Academy : Основы SVG](https://htmlacademy.ru/courses/svg)
+- [x] [HTML Academy : Браузерный JavaScript](https://htmlacademy.ru/courses/javascript-in-browser)
 
 # Certificates
 - [ ] FCE certificate
