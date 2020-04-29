@@ -6,6 +6,7 @@
 - [x] Atlas Obscura. Самые необыкновенные места планеты(Элла Мортон, Джошуа Фоер, Дилан Тюрас) :blue_book: 2020/04/20
 
 # Courses
+- [ ] TypeCsript videocourse
 - [ ] Internatonal House FCE English course
 - [ ] Udemy JavaScript course
 - [x] [HTML Academy : Великий Кексби](https://htmlacademy.ru/courses/keksby)
