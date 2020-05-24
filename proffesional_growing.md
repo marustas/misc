@@ -21,5 +21,6 @@
 
 # Certificates
 - [ ] FCE certificate
+- [x] [Полный курс по JavaScript + React - с нуля до результата](https://github.com/marustas/misc/blob/master/certificates/udemy_certificate.jpg)
 - [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
 
