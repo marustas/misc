@@ -8,7 +8,7 @@
 # Courses
 - [x] TypeSsript videocourse
 - [x] Internatonal House FCE English course
-- [x] Udemy JavaScript course
+- [x] [Udemy : Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
 - [x] [HTML Academy : Великий Кексби](https://htmlacademy.ru/courses/keksby)
 - [x] [HTML Academy : Препроцессор Less](https://htmlacademy.ru/courses/less)
 - [x] [HTML Academy : Знакомство с HTML и CSS](https://htmlacademy.ru/courses/basic-html-css)
