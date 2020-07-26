@@ -1,14 +1,20 @@
 # Reading
+<<<<<<< HEAD
 - [ ] JavaScript® Notes for Professionals book
 - [x] Как люди думают(Дмитрий Чернышев,2020) :blue_book: 2020/07/01 
 - [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/17
+=======
+
+- [ ] Как люди думают(Дмитрий Чернышев,2020)
+- [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/08
+>>>>>>> 2b503d701fd06e60293e628771d11d7a626c3ba1
 - [x] Я слышу вас насквозь. Эффективная техника переговоров!(Марк Гоулстон,10-е издание,2019) :blue_book: 2020/04/25
 - [x] Atlas Obscura. Самые необыкновенные места планеты(Элла Мортон, Джошуа Фоер, Дилан Тюрас) :blue_book: 2020/04/20
 
 # Courses
 - [x] TypeSsript videocourse
 - [x] Internatonal House FCE English course
-- [x] Udemy JavaScript course
+- [x] [Udemy : Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
 - [x] [HTML Academy : Великий Кексби](https://htmlacademy.ru/courses/keksby)
 - [x] [HTML Academy : Препроцессор Less](https://htmlacademy.ru/courses/less)
 - [x] [HTML Academy : Знакомство с HTML и CSS](https://htmlacademy.ru/courses/basic-html-css)
