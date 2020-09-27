@@ -29,7 +29,7 @@
 
 # Certificates
 - [x] FCE certificate
-- [x] [HTML Academy : JavaScript. Архитектура клиентских приложений]()
+- [x] [HTML Academy : JavaScript. Архитектура клиентских приложений](https://github.com/marustas/misc/blob/master/certificates/HTML_ACADEMY_JS_ARCHITECTURE_of_FONT_END_APPLICATIONS.pdf)
 - [x] [Полный курс по JavaScript + React - с нуля до результата](https://github.com/marustas/misc/blob/master/certificates/udemy_certificate.jpg)
 - [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
 - [x] [HTML Academy JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/marustas/misc/blob/master/certificates/HTML_ACADEMY_JS_Professional_Development_of_Web_Interfaces.pdf)
