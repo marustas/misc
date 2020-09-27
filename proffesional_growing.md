@@ -25,9 +25,11 @@
 - [x] [HTML Academy : Программирование на JavaScript](https://htmlacademy.ru/courses/javascript)
 - [x] [HTML Academy : Браузерный JavaScript](https://htmlacademy.ru/courses/javascript-in-browser)
 - [x] [HTML Academy : JavaScript. Профессиональная разработка веб-интерфейсов](https://up.htmlacademy.ru/javascript/20)
+- [x] [HTML Academy : JavaScript. Архитектура клиентских приложений](https://up.htmlacademy.ru/ecmascript/12)
 
 # Certificates
-- [ ] FCE certificate
+- [x] FCE certificate
+- [x] [HTML Academy : JavaScript. Архитектура клиентских приложений]()
 - [x] [Полный курс по JavaScript + React - с нуля до результата](https://github.com/marustas/misc/blob/master/certificates/udemy_certificate.jpg)
 - [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
 - [x] [HTML Academy JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/marustas/misc/blob/master/certificates/HTML_ACADEMY_JS_Professional_Development_of_Web_Interfaces.pdf)
