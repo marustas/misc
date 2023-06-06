@@ -1,13 +1,11 @@
 # Reading
 <<<<<<< HEAD
-- [ ] JavaScript® Notes for Professionals book
+- [x] JavaScript® Notes for Professionals book
 - [x] Как люди думают(Дмитрий Чернышев,2020) :blue_book: 2020/07/01 
 - [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/17
 =======
-
-- [ ] Как люди думают(Дмитрий Чернышев,2020)
+- [x] Как люди думают(Дмитрий Чернышев,2020)
 - [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/08
->>>>>>> 2b503d701fd06e60293e628771d11d7a626c3ba1
 - [x] Я слышу вас насквозь. Эффективная техника переговоров!(Марк Гоулстон,10-е издание,2019) :blue_book: 2020/04/25
 - [x] Atlas Obscura. Самые необыкновенные места планеты(Элла Мортон, Джошуа Фоер, Дилан Тюрас) :blue_book: 2020/04/20
 
@@ -26,6 +24,9 @@
 - [x] [HTML Academy : Браузерный JavaScript](https://htmlacademy.ru/courses/javascript-in-browser)
 - [x] [HTML Academy : JavaScript. Профессиональная разработка веб-интерфейсов](https://up.htmlacademy.ru/javascript/20)
 - [x] [HTML Academy : JavaScript. Архитектура клиентских приложений](https://up.htmlacademy.ru/ecmascript/12)
+- [x] [Udemy : Introduction to Algorithms and Data structures in C++](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
+- [x] [Udemy : The Complete Web Developer in 2023: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+- [ ] [The Ultimate React Course 2023: React, Redux](https://www.udemy.com/course/the-ultimate-react-course/)
 
 # Certificates
 - [x] FCE certificate
