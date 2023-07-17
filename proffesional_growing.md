@@ -25,6 +25,7 @@
 - [x] [HTML Academy : JavaScript. Архитектура клиентских приложений](https://up.htmlacademy.ru/ecmascript/12)
 - [x] [Udemy : Introduction to Algorithms and Data structures in C++](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
 - [x] [Udemy : The Complete Web Developer in 2023: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+- [x] [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
 - [ ] [The Ultimate React Course 2023: React, Redux](https://www.udemy.com/course/the-ultimate-react-course/)
 
 # Certificates
@@ -33,6 +34,6 @@
 - [x] [Полный курс по JavaScript + React - с нуля до результата](https://github.com/marustas/misc/blob/master/certificates/udemy_certificate.jpg)
 - [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
 - [x] [HTML Academy JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/marustas/misc/blob/master/certificates/HTML_ACADEMY_JS_Professional_Development_of_Web_Interfaces.pdf)
-- [x] [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
+- [x] [CS50's Introduction to Programming with Python](https://github.com/marustas/misc/blob/master/certificates/CS50P_CERTIFICATE.pdf) 
 
 
