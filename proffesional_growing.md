@@ -5,7 +5,6 @@
 - [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/17
 =======
 - [x] Как люди думают(Дмитрий Чернышев,2020)
-- [x] Программист-фанатик(Чед Фаулер,2020) :blue_book: 2020/06/08
 - [x] Я слышу вас насквозь. Эффективная техника переговоров!(Марк Гоулстон,10-е издание,2019) :blue_book: 2020/04/25
 - [x] Atlas Obscura. Самые необыкновенные места планеты(Элла Мортон, Джошуа Фоер, Дилан Тюрас) :blue_book: 2020/04/20
 
@@ -34,5 +33,6 @@
 - [x] [Полный курс по JavaScript + React - с нуля до результата](https://github.com/marustas/misc/blob/master/certificates/udemy_certificate.jpg)
 - [x] [OTUS JavaScript для начинающих программистов](https://github.com/marustas/misc/blob/master/certificates/OTUS_JavaScript_for_beginners.pdf) 
 - [x] [HTML Academy JavaScript. Профессиональная разработка веб-интерфейсов](https://github.com/marustas/misc/blob/master/certificates/HTML_ACADEMY_JS_Professional_Development_of_Web_Interfaces.pdf)
+- [x] [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) 
 
 
